@@ -6,7 +6,7 @@ const About = () => {
   return (
    <div className='mb-20 mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
       <div className='my-5 mb-0 px-5'>
-        <h1 className='text-lg leading-10 font-light text-center lg:px-5 lg:text-2xl'>
+        <h1 className='text-lg leading-10 sm:text-black font-light text-center lg:px-5 lg:text-2xl'>
            Let us help you create a social media presence that engages with your 
            audience and generates results. At Sellterr Media we offer 
            customized strategies tailored to your unique business needs. 

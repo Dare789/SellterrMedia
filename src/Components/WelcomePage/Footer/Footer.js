@@ -17,9 +17,9 @@ const Footer = () => {
       </div>
     </div>
     <div>
-      <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2 pt-3 text-lg'>
+      {/* <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2 pt-3 text-lg'>
        Sellterr Media, 444 Alaska Avenue, Torrance
-      </h1>
+      </h1> */}
       <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2'>CA, 90503, USA</h1>
     </div>
     <div className='flex space-x-6 mx-5 sm:mx-5 items-center justify-center py-3'>
