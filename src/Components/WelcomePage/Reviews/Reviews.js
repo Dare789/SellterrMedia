@@ -6,10 +6,10 @@ function Reviews() {
       <div className='p-12 bg-gray-100'>
        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl md:text-center">
-            <h2 className="font-bold text-4xl tracking-tight text-slate-900 sm:text-3xl text-center">
+            <h2 className="font-bold text-xl tracking-tight text-slate-900 lg:text-3xl text-center">
               Loved by Clients
             </h2>
-            <p className="mt-4 text-lg tracking-tight text-slate-700 text-center">
+            <p className="mt-1 text-xs lg:text-lg tracking-tight text-slate-700 text-center">
                At our agency, we're driven by results and always strive to achieve the best for our clients. 
                We're proud to say that our clients love our services, and we have the reviews to prove it.
                Take a look at what some of our satisfied clients have to say.
@@ -18,7 +18,7 @@ function Reviews() {
                 <div className="relative rounded-2xl bg-blue-50 p-6 my-5 shadow-xl shadow-slate-900/10">
                      <svg aria-hidden="true" width="105" height="78" className="absolute top-6 left-6 fill-slate-100"></svg> 
                      <blockquote className="relative">
-                           <p className="text-lg tracking-tight text-slate-900">
+                           <p className="text-sm lg:text-lg tracking-tight text-slate-900">
                              I can't say enough good things about this agency! They helped me take my social media game to the next level, 
                              and the results speak for themselves. 
                              If you're looking to grow your online presence, 
@@ -39,7 +39,7 @@ function Reviews() {
                 <div className="relative rounded-2xl bg-blue-50 p-6 my-5 shadow-xl shadow-slate-900/10">
                      <svg aria-hidden="true" width="105" height="78" className="absolute top-6 left-6 fill-slate-100"></svg> 
                      <blockquote className="relative">
-                           <p className="text-lg tracking-tight text-slate-900">
+                           <p className="text-sm lg:text-lg tracking-tight text-slate-900">
                                Working with this agency has been a game-changer for my business. 
                                Their social media expertise is top-notch, and 
                                they really took the time to understand my brand's unique voice and message. 
@@ -60,7 +60,7 @@ function Reviews() {
                 <div className="relative rounded-2xl bg-blue-50 p-6 my-5 shadow-xl shadow-slate-900/10">
                      <svg aria-hidden="true" width="105" height="78" className="absolute top-6 left-6 fill-slate-100"></svg> 
                      <blockquote className="relative">
-                           <p className="text-lg tracking-tight text-slate-900">
+                           <p className="text-sm lg:text-lg tracking-tight text-slate-900">
                                  Sellterr Media really did magic with my business, my ROI skyrockected, would definately recommend them to anyone 
                                  looking to advertise there business and make a kill online.
                             </p>
@@ -79,7 +79,7 @@ function Reviews() {
                 <div className="relative rounded-2xl bg-blue-50 p-6 my-5 shadow-xl shadow-slate-900/10">
                      <svg aria-hidden="true" width="105" height="78" className="absolute top-6 left-6 fill-slate-100"></svg> 
                      <blockquote className="relative">
-                           <p className="text-lg tracking-tight text-slate-900">
+                           <p className="text-sm lg:text-lg tracking-tight text-slate-900">
                            I've worked with a few different social media agencies in the past, but none have been as effective as this one. 
                            Their attention to detail and commitment to results is unmatched, 
                            and I've seen a significant increase in engagement and conversions since working with them.

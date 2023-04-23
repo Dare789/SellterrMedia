@@ -19,16 +19,16 @@ const About = () => {
         </h1>
      </div>
      <div className='flex p-5 space-x-3 pt-12'>
-      <div className='p-5 shadow-2xl bg-blue-50 text-center'>
-        <h1 className='text-3xl font-bold lg:text-4xl'>Web & App Dev</h1>
-          <h1 className='leading-8 text-lg text-center'>
+      <div className='p-3 shadow-2xl bg-blue-50 text-center'>
+        <h1 className='text-lg font-bold lg:text-3xl'>Web & App Dev</h1>
+          <h1 className='leading-6 lg:leading-8 text-sm lg:text-lg'>
             Let help you build a custom website or app that aligns with your brand's goals. 
           Our social media agency specializes in creating solutions that drive results.
           </h1>
         </div>
-        <div className='p-5 shadow-2xl bg-blue-50 text-center'>
-        <h1 className='text-3xl font-bold lg:text-4xl'>Social Media Ads</h1>
-          <h1 className='leading-8 text-lg text-center'>
+        <div className='p-3 shadow-2xl bg-blue-50 text-center'>
+        <h1 className='text-lg font-bold lg:text-3xl'>Social Media Ads</h1>
+          <h1 className='leading-6 lg:leading-8 text-sm lg:text-lg'>
             Elevate your advertising with Facebook, YouTube and TikTok ads. 
             We creates engaging ads that 
             drive results and capture your brand's 

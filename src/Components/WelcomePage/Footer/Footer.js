@@ -11,16 +11,16 @@ const Footer = () => {
 		</div>
     <div className="flex mx-5 sm:mx-5 items-center justify-center space-x-2 pt-3">
       <div className="flex space-x-8">
-                  <div className="font-bold text-md text-center sm:text-lg cursor-pointer">About</div>
-				          <div className="font-bold text-md text-center sm:text-lg cursor-pointer">Terms Of Use</div>
-                  <div className="font-bold text-md text-center sm:text-lg cursor-pointer">Privacy Policy</div>
+                  <div className="font-bold text-md text-center text-sm lg:text-lg cursor-pointer">About</div>
+				          <div className="font-bold text-md text-center text-sm lg:text-lg cursor-pointer">Terms Of Use</div>
+                  <div className="font-bold text-md text-center text-sm lg:text-lg cursor-pointer">Privacy Policy</div>
       </div>
     </div>
     <div>
       {/* <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2 pt-3 text-lg'>
        Sellterr Media, 444 Alaska Avenue, Torrance
       </h1> */}
-      <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2'>CA, 90503, USA</h1>
+      {/* <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2'>CA, 90503, USA</h1> */}
     </div>
     <div className='flex space-x-6 mx-5 sm:mx-5 items-center justify-center py-3'>
       <SocialIcon network="twitter" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
