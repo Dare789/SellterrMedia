@@ -18,7 +18,7 @@ const Header = () => {
 
   const scrollToAboutMobile = () => {
       window.scrollTo({
-        top: 21 * unit,
+        top: 20 * unit,
         behavior: "smooth"
       })
   }
