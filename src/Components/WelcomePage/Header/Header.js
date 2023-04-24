@@ -41,7 +41,7 @@ const Header = () => {
                   </a>
                   </div>
               </div>
-              <div className="mr-10 flex md:hidden">
+              <div className="flex md:hidden">
                         <button
                           onClick={() => setIsOpen(!isOpen)}
                           type="button"
