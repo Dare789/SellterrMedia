@@ -3,7 +3,7 @@ import React from 'react';
 function Reviews() {
   return (
     <div>
-      <div className='p-12 bg-gray-100'>
+      <div className='pt-12 bg-gray-100'>
        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl md:text-center">
             <h2 className="font-bold text-xl tracking-tight text-slate-900 lg:text-3xl text-center">
