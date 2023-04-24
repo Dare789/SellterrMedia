@@ -7,10 +7,10 @@ function Landing() {
      <div className="pt-5 pb-20 lg:py-24 md:pb-0 bg-gray-100">
                 <div className="p-7 py-9 md:flex lg:mx-14">
                     <div className="flex flex-col gap-7 lg:max-w-none lg:justify-center">
-                    <h1 className="text-3xl sm:text-3xl text-black lg:text-6xl font-extrabold">
+                    <h1 className="text-2xl m:text-3xl text-black lg:text-6xl font-extrabold">
                         Our  <span className="text-blue-500">Social Media Marketing</span> approach delivers a remarkable <span className="text-blue-500">ROI</span> {""}
                         by attracting customers to our clients.</h1>
-                    <h1 className="text-black text-sm font-light tracking-wide lg:max-w-6xl w-full lg:text-2xl px-2">
+                    <h1 className="text-black text-xs font-light tracking-wide lg:max-w-6xl w-full lg:text-2xl px-2">
                        Boost your online presence with our social media marketing agency. 
                        We create compelling campaigns that engage your target audience and drive results. 
                     </h1>

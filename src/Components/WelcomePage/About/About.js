@@ -4,9 +4,9 @@ import dash from "./dash.png";
 
 const About = () => {
   return (
-   <div className='mb-20 mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
-      <div className='my-5 mb-0 px-5'>
-        <h1 className='text-lg leading-10 sm:text-black font-light text-center lg:px-5 lg:text-2xl'>
+   <div className='mb-12 mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
+      <div className='my-5 mb-0 px-4'>
+        <h1 className='text-xs md:text-lg leading-4 font-light text-center lg:px-5 lg:text-2xl'>
            Let us help you create a social media presence that engages with your 
            audience and generates results. At Sellterr Media we offer 
            customized strategies tailored to your unique business needs. 
@@ -18,17 +18,17 @@ const About = () => {
            how our expertise can help you achieve your goals.
         </h1>
      </div>
-     <div className='flex p-5 space-x-3 pt-12'>
+     <div className='flex p-5 space-x-3 pt-6'>
       <div className='p-3 shadow-2xl bg-blue-50 text-center'>
-        <h1 className='text-lg font-bold lg:text-3xl'>Web & App Dev</h1>
-          <h1 className='leading-6 lg:leading-8 text-sm lg:text-lg'>
+        <h1 className='text-sm font-bold lg:text-3xl'>Web & App Dev</h1>
+          <h1 className='leading-5 lg:leading-8 text-xs md:text-sm lg:text-lg'>
             Let help you build a custom website or app that aligns with your brand's goals. 
-          Our social media agency specializes in creating solutions that drive results.
+            Our social media agency specializes in creating solutions that drive results.
           </h1>
         </div>
         <div className='p-3 shadow-2xl bg-blue-50 text-center'>
-        <h1 className='text-lg font-bold lg:text-3xl'>Social Media Ads</h1>
-          <h1 className='leading-6 lg:leading-8 text-sm lg:text-lg'>
+        <h1 className='text-sm md:text-lg font-bold lg:text-3xl'>Social Media Ads</h1>
+          <h1 className='text-xs leading-5 lg:leading-8 md:text-sm lg:text-lg'>
             Elevate your advertising with Facebook, YouTube and TikTok ads. 
             We creates engaging ads that 
             drive results and capture your brand's 
@@ -37,10 +37,10 @@ const About = () => {
         </div>
 
      </div>
-     <div className='p-3 mx-5 my-10 shadow-2xl sm:my-5'>
+     <div className='p-3 mx-5 my-5 shadow-2xl sm:my-5'>
           <img src={dashboard} alt="dashboardPic"/>
       </div>
-      <div className='p-3 mx-5 my-10 shadow-2xl sm:my-5'>
+      <div className='p-3 mx-5 my-5 shadow-2xl sm:my-5'>
           <img src={dash} alt="dashboardPic"/>
       </div>
     </div>
