@@ -4,7 +4,7 @@ import LandingPic from "./LandingPic.png";
 function Landing() {
   return (
     <div>
-     <div className="pb-20 lg:py-20 md:pb-0 bg-gray-100">
+     <div className="pb-20 lg:py-24 md:pb-0 bg-gray-100">
                 <div className="p-7 py-9 md:flex lg:mx-14">
                     <div className="flex flex-col gap-3 lg:max-w-none lg:justify-center">
                     <h1 className="text-4xl text-black leading-9 lg:text-6xl font-extrabold">
