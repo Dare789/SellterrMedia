@@ -4,7 +4,7 @@ import dash from "./dash.png";
 
 const About = () => {
   return (
-   <div className='mb-12 mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
+   <div className='mb-12 mt-5 lg:mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
       <div className='my-5 mb-0 px-4'>
         <h1 className='text-xs md:text-lg leading-4 font-light text-center lg:px-5 lg:text-2xl'>
            Let us help you create a social media presence that engages with your 
