@@ -28,7 +28,9 @@ const Header = () => {
         <header className="sticky top-0 z-30 flex w-full items-center justify-between p-2 pl-5 pr-8 lg:px-14">
          <div className="flex items-center justify-center">
 				    <div className="flex items-center">
-				      <img src={Sellterr} alt="Sellterr" className="cursor-pointer h-10 w-10 lg:h-14 lg:w-14 shadow-transparent"/>
+            <a href="https://sellterrmedia.com" target="_blank" rel="noreferrer">
+				       <img src={Sellterr} alt="Sellterr" className="cursor-pointer h-10 w-10 lg:h-14 lg:w-14 shadow-transparent"/>
+            </a>
                       <div className='text-xl lg:text-2xl text-black font-extrabold'>Sellterr Media</div>
             </div>
 				 </div>
