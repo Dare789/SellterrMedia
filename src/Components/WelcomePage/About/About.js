@@ -35,7 +35,6 @@ const About = () => {
             unique message and voice.
           </h1>
         </div>
-
      </div>
      <div className='p-3 mx-5 my-5 shadow-2xl sm:my-5'>
           <img src={dashboard} alt="dashboardPic"/>

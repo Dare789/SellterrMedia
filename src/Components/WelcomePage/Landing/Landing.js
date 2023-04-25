@@ -17,8 +17,8 @@ function Landing() {
                     </h1>
                     <div>
                       <a href="https://calendly.com/sellterrmedia" target="_blank" rel="noreferrer">
-                           <button className="bg-gray-900 text-white font-extrabold w-36 rounded-xl p-3 text-lg">
-                               Book A Call
+                           <button className="bg-gray-900 text-white font-bold w-36 rounded-xl p-3 text-lg">
+                               Chat With Us
                            </button>
                      </a>
                     </div>
