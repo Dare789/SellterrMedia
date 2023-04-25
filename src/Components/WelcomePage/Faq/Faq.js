@@ -12,7 +12,7 @@ const Faq = () => {
       </h1>
       <p className='flex text-sm items-center justify-center mb-5 px-12 text-center'>
          Need help? Check out the answers to your questions about Sellterr Media, 
-         or send an email to "***************".
+         or send an email to "support@sellterrmedia.com".
       </p>
       <div className="mb-20">
         {accordionData.map(({ title, content }) => (

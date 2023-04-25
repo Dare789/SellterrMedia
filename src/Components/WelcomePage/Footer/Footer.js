@@ -26,7 +26,7 @@ const Footer = () => {
       <SocialIcon network="twitter" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
       <SocialIcon network="facebook" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
       <SocialIcon network="instagram" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
-      <SocialIcon network="github" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
+      <SocialIcon network="linkedin" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
     </div>
     <div className='flex space-x-6 mx-5 sm:mx-5 items-center justify-center pb-5'>
       <p className='text-sm font-light'>Copyright &copy; 2023 All Rights Reserved</p>
