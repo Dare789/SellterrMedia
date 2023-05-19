@@ -4,45 +4,52 @@ import dash from "./dash.png";
 
 const About = () => {
   return (
-   <div className='mb-12 mt-5 lg:mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
+    <div className='mb-12 mt-5 lg:mt-12 lg:mx-16 lg:my-14 lg:mb-24'>
       <div className='my-5 mb-0 px-4'>
-        <h1 className='text-xs md:text-lg leading-4 font-light text-center lg:px-5 lg:text-2xl'>
-           We create social media presence that engages with your 
-           audience and generates fast results. At Sellterr Media we offer 
-           customized strategies tailored to your unique business needs. 
-           From Web and Mobile development to analytics tracking to create social media Ads, 
-           we take care of everything so you can focus on running your business. 
-           Our team stays up to date on the latest social media trends and algorithm 
-           changes to ensure your campaigns are always at the forefront of digital marketing. Don't let 
-           your competitors steal your online customers. Contact us today to learn 
-           how our expertise can help you achieve your goals.
+        <h1 className='text-sm md:text-lg leading-4 font-light text-center lg:px-5 lg:text-2xl'>
+          At Sellterr Media, we are passionate about helping businesses succeed in the digital world.
+          We are a social media marketing agency that specializes in building and designing captivating 
+          websites for our clients. With our expertise and experience, we create online experiences 
+          that engage, inspire, and convert. Our goal is to elevate your brand's online presence and 
+          maximize your business growth through strategic social media campaigns and professional web design. 
+          Whether you're a startup or an established company, 
+          we are here to drive your success in the digital landscape.
         </h1>
-     </div>
-     <div className='flex flex-row p-5 space-x-3 pt-6'>
-      <div className='p-3 shadow-2xl bg-blue-50 text-center'>
-        <h1 className='text-sm font-bold lg:text-3xl'>Web & App Dev</h1>
-          <h1 className='leading-5 lg:leading-8 text-xs md:text-sm lg:text-lg'>
-            Let help you build a custom website or app that aligns with your brand's goals. 
-            Our agency specializes in creating solutions that drive results.
+      </div>
+      <div className='flex flex-col md:flex-row lg:flex-row p-3 space-x-3 space-y-3 pt-6 mx-8'>
+        <div className='p-5 shadow-2xl bg-blue-50 text-center rounded-sm'>
+          <h1 className='text-lg md:text-lg lg:text-3xl p-1 font-bold'>Research & Strategy</h1>
+          <h1 className='text-xs md:text-base lg:text-lg'>
+            Crafting success through strategic research. Our agency takes a 
+            data-driven approach to build 
+            websites that align with your goals and captivate your audience.
           </h1>
         </div>
-        <div className='p-3 shadow-2xl bg-blue-50 text-center'>
-        <h1 className='text-sm md:text-lg font-bold lg:text-3xl'>Social Media Ads</h1>
-          <h1 className='text-xs leading-5 lg:leading-8 md:text-sm lg:text-lg'>
-            Elevate your advertising with Facebook, YouTube and TikTok ads. 
-            We creates engaging ads that 
-            drive results and capture your brand's 
-            unique message and voice.
+        <div className='p-5 shadow-2xl bg-blue-50 text-center rounded-sm'>
+          <h1 className='text-lg md:text-lg lg:text-3xl p-1 font-bold'>Web Development</h1>
+          <h1 className='text-xs md:text-base lg:text-lg'>
+            Unleash your online potential with our expert developers. 
+            We create fast, responsive, 
+            and visually stunning websites that engage users and drive results.
           </h1>
         </div>
-     </div>
-     <div className='p-3 mx-5 my-5 shadow-2xl sm:my-5'>
-          <img src={dashboard} alt="dashboardPic"/>
+        <div className='p-5 shadow-2xl bg-blue-50 text-center rounded-sm'>
+          <h1 className='text-lg md:text-lg lg:text-3xl p-1 font-bold'>Web Solutions</h1>
+          <h1 className='text-xs md:text-base lg:text-lg'>
+            Unlock the full power of your website with our comprehensive solutions. 
+            From design to maintenance, we offer tailored solutions that enhance 
+            your online presence and facilitate business growth.
+          </h1>
+        </div>
       </div>
       <div className='p-3 mx-5 my-5 shadow-2xl sm:my-5'>
-          <img src={dash} alt="dashboardPic"/>
+        <img src={dashboard} alt="dashboardPic" />
+      </div>
+      <div className='p-3 mx-5 my-5 shadow-2xl sm:my-5'>
+        <img src={dash} alt="dashboardPic" />
       </div>
     </div>
   )
 }
+
 export default About;

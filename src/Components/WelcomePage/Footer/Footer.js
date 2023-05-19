@@ -11,23 +11,21 @@ const Footer = () => {
     </a>    
         <div className='text-xl lg:text-2xl text-black font-extrabold'>Sellterr Media</div>
 		</div>
-    {/* <div className="flex mx-5 sm:mx-5 items-center justify-center space-x-2 pt-1"> */}
-      {/* <div className="flex space-x-5">
-                  <div className="font-bold text-md text-center text-sm lg:text-lg cursor-pointer">About</div>
-				          <div className="font-bold text-md text-center text-sm lg:text-lg cursor-pointer">Terms Of Use</div>
-                  <div className="font-bold text-md text-center text-sm lg:text-lg cursor-pointer">Privacy Policy</div>
-      </div> */}
-    {/* </div> */}
     <div>
       <h1 className='flex mx-5 sm:mx-5 items-center justify-center space-x-2 text-xs lg:text-lg'>
-       Sellterr Media, 444 Alaska Avenue, Torrance
+       Sellterr Media, Ikeja, lagos, Nigeria
       </h1>
-      <h1 className='flex mx-5 sm:mx-5 items-center text-xs lg:text-lg justify-center space-x-2'>CA, 90503, USA</h1>
     </div>
     <div className='flex space-x-4 mx-5 sm:mx-5 items-center justify-center py-2'>
-      <SocialIcon network="twitter" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
-      <SocialIcon network="facebook" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
-      <SocialIcon network="linkedin" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
+      <a href='https://www.instagram.com/sellterrmedia/' target="_blank" rel="noreferrer">
+         <SocialIcon network="instagram" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
+      </a>
+      <a href='https://www.linkedin.com/company/sellterr-media/?viewAsMember=true' target="_blank" rel="noreferrer">
+        <SocialIcon network="linkedin" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
+      </a>
+        <a href='https://web.facebook.com/?_rdc=1&_rdr' target="_blank" rel="noreferrer">
+           <SocialIcon network="facebook" bgColor="black" style={{ height: 32, width: 32 }} className="cursor-pointer"/>
+        </a>
     </div>
     <div className='flex space-x-6 mx-5 sm:mx-5 items-center justify-center pb-5'>
       <p className='text-sm font-light'>Copyright &copy; 2023 All Rights Reserved</p>

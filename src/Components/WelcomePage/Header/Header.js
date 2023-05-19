@@ -36,7 +36,6 @@ const Header = () => {
 				 </div>
                  <div className="hidden flex-1 items-center justify-end space-x-8 md:flex pr-5">
                   <div className="font-bold link text-lg headerlink" onClick={scrollToAbout}>About Us</div>
-                  {/* <div className="font-bold link text-lg headerLink">Our Services</div> */}
                   <div className="font-bold link text-lg headerlink">
                   <a href="https://calendly.com/sellterrmedia" target="_blank" rel="noreferrer">
                     Book A Call

@@ -8,12 +8,12 @@ function Landing() {
                 <div className="p-7 py-9 md:flex lg:mx-14">
                     <div className="flex flex-col gap-3 lg:max-w-none lg:justify-center">
                     <h1 className="text-4xl text-black leading-9 lg:text-6xl font-extrabold">
-                        Our  <span className="text-blue-500">Social Media Marketing</span> approach delivers a remarkable <span className="text-blue-500">ROI</span> {""}
-                        by attracting customers to our clients.
+                     Captivate Your <span className="text-blue-500">Audience</span> with Engaging Web Designs and <span className="text-blue-500">strengthen</span> {""}
+                     Your Business's<span className="text-blue-500"> Online</span> Presence
                     </h1>
                     <h1 className="text-black text-xs font-light tracking-wide lg:max-w-6xl lg:text-2xl md:text-lg px-2">
-                       Boost your online presence with our social media marketing agency. 
-                       We create compelling campaigns that engage your target audience and drive results. 
+                       Enhance your online presence with our Web Design agency.
+                       We create sound, functional, tailor-made websites that serve as lead machine for your business
                     </h1>
                     <div>
                       <a href="https://calendly.com/sellterrmedia" target="_blank" rel="noreferrer">

@@ -1,30 +1,35 @@
 export const accordionData = [
     {
-      title: 'How long does it take to see results from social media marketing?',
-      content: `It can vary depending on your goals and industry, 
-                but we typically see results within the first few weeks of 
-                implementing our social media strategies.`
+      title: 'Why do I need a website for my business when I already have social media profiles?',
+      content: `While social media is essential for brand visibility, 
+                a website offers more control, customization, and professionalism. It acts as a central hub for your online presence, helps with search engine visibility, 
+                and allows for seamless integration with other marketing efforts.`
     },
     {
-      title: 'Can you help me grow my following on social media?',
-      content: `Absolutely! We specialize in organic and paid social media 
-                growth strategies that can help you reach a wider audience 
-                and increase engagement.`
+      title: 'How does social media marketing complement website development?',
+      content: `Social media marketing amplifies your website's reach by 
+                driving traffic, increasing brand awareness, and engaging 
+                with your target audience. It works in synergy with website
+                development to create a cohesive digital strategy that 
+                maximizes your online impact.`
     },
     {
-      title: 'How much does social media marketing cost?',
-      content: `Our pricing varies depending on the scope and complexity of 
-                your project. However, we always work with our 
-                clients to develop custom solutions that fit their budgets and needs.`
+      title: ' Can you help me with content creation for my website and social media channels?',
+      content: `Absolutely! We offer comprehensive content creation services,
+                including website copy, blog posts, social media posts, and more. Our team of skilled writers can tailor content to suit your brand voice, 
+                engage your audience, and optimize it for search engines.`
     },
     {
-      title: 'What social media platforms do you work with?',
-      content: `We work with all major social media platforms, including Facebook, Instagram, 
-                Twitter, LinkedIn, and more.`
+      title: 'Can you provide ongoing website maintenance and updates?',
+      content: `Absolutely! We offer website maintenance packages to ensure your 
+                website remains secure, up-to-date, and optimized for 
+                performance. Whether you need regular content updates, 
+                security patches, or technical support, we've got you covered.`
     },
     {
-      title: 'Can social media marketing really help me grow my business?',
-      content: `Yes! Social media marketing can help you reach a wider audience, build brand 
-                awareness, and drive traffic and conversions to your website.`
+      title: 'Will my website be optimized for search engines?',
+      content: `Yes, we prioritize search engine optimization (SEO) in our website development process. 
+               We implement SEO best practices such as optimizing meta tags, creating search-friendly URLs,
+               and structuring content to enhance visibility on search engine result pages (SERPs)`
     },
   ];
