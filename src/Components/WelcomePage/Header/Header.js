@@ -37,8 +37,9 @@ const Header = () => {
                  <div className="hidden flex-1 items-center justify-end space-x-8 md:flex pr-5">
                   <div className="font-bold link text-lg headerlink" onClick={scrollToAbout}>About Us</div>
                   <div className="font-bold link text-lg headerlink">
-                  <a href="https://calendly.com/sellterrmedia" target="_blank" rel="noreferrer">
-                    Book A Call
+                  <a href="https://api.whatsapp.com/message/Q7MZ7FUSNGYEE1?autoload=1&app_absent=0" target="_blank" rel="noreferrer">
+                    
+                    Chat With Us
                   </a>
                   </div>
               </div>
@@ -106,12 +107,12 @@ const Header = () => {
 						<div className="md:hidden" id="mobile-menu">
 							<div ref={divRef} className="bg-white px-2 pt-2 pb-3 space-y-1 sm:px-3">
 								<div> 
-									<a href="https://calendly.com/sellterrmedia" target="_blank" rel="noreferrer">
+									<a href="https://api.whatsapp.com/message/Q7MZ7FUSNGYEE1?autoload=1&app_absent=0" target="_blank" rel="noreferrer">
 								       <div className="cursor-pointer hover:bg-blue-600
 									                     text-black hover:text-white block px-3 py-2 
 													             rounded-md text-base font-medium"
 									  >
-									       Book A Call
+									       Chat With Us
 								      </div>
 								   </a>
 								</div>

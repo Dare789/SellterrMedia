@@ -16,9 +16,9 @@ function Landing() {
                        We create sound, functional, tailor-made websites that serve as lead machine for your business
                     </h1>
                     <div>
-                      <a href="https://calendly.com/sellterrmedia" target="_blank" rel="noreferrer">
+                      <a href="https://api.whatsapp.com/message/Q7MZ7FUSNGYEE1?autoload=1&app_absent=0" target="_blank" rel="noreferrer">
                            <button className="bg-gray-900 text-white font-bold w-36 rounded-xl p-3 text-lg">
-                                Book A Call
+                                Chat With Us
                            </button>
                      </a>
                     </div>
